@@ -29,7 +29,7 @@ java simulateDist Dist 10 binomial 10 0.6
 
 NOTE
 ----
-Given the distribution and parameters, the program outputs a suitable random number distribution that satisfies the given condition.
+The program generates simulated samples from a given distribution by using samples generated from a Standard Uniform Distribution (Random Number Generator). The type of distribution and the parameters are given as command line arguments. Command line format is simulateDist <number-of-samples> <distribution> <parameters>
 The simulateDist should be in the same directory as at the terminal.
 
 Distribution Implemented are as follows:
