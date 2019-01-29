@@ -10,7 +10,7 @@ Programming Language Used: Java 8, Inc.
 ----------------
 CODE STRUCTURE
 -----------------
-1. All the distributions are implemented at different functions.
+1. All the distributions are implemented as different functions.
 2. Make sure to name the correct distributions before running.
 3. Bernoulli and Arbitrary discrete distributions only prints the final output of selecting the elements with the assigned probability. 
 
